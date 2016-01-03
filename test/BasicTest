@@ -1,0 +1,6 @@
++++++ +++ 				SET CELL 0 TO 8
+[
+	.>>
+	[+<]
+	-					DECREMENT 1 IN THE LOOP COUNTER
+]						LOOP UNTIL CELL 0 IS 0
